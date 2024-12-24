@@ -1,0 +1,78 @@
+
+✨==============================✨
+ 📂 Folder Created : WHAT IF
+ ↪️📁 Edited Movie Name: WHAT IF 2021 S03E01.mkv
+ ↪️📁 Edited Movie Name: WHAT IF 2021 S03E03.mkv
+ ↪️📁 Edited Movie Name: WHAT IF S03E02.mkv
+✨==============================✨
+
+
+========== 🚨 NOT FOUND 🚨 ==========
+🎥 Title: 01_CONTROL
+📁 Poster could not be found.
+====================================
+
+
+========== SUCCESS ==========
+🎥 Title: WHAT IF
+📁 Poster and Details are saved successfully!
+============================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moved DUNE PROPHECY S01E01.mkv to C:/VICTUS/ENTERTANMENT\DUNE PROPHECY
+Edited File Name: DUNE PROPHECY S01E01.mkv
+Moved to Folder: DUNE PROPHECY
+API response for '01_CONTROL' saved to C:\VICTUS\ENTERTANMENT\01_CONTROL\response.txt
+Poster not found for '01_CONTROL'
+Poster already exists for 'ARCANE'
+Poster already exists for 'BLACK DOVES'
+API response for 'DUNE PROPHECY' saved to C:\VICTUS\ENTERTANMENT\DUNE PROPHECY\response.txt
+Poster for 'DUNE PROPHECY' saved to C:\VICTUS\ENTERTANMENT\DUNE PROPHECY\poster.jpg
+Poster already exists for 'HERETIC 2024'
+Poster already exists for 'HOUSE OF THE DRAGON'
+Poster already exists for 'LANDMAN'
+Poster already exists for 'MINDHUNTER'
+Poster already exists for 'SILO'
+Poster already exists for 'SQUID GAME 2021'
+Poster already exists for 'THE AGENCY 2024'
+Poster already exists for 'THE FROG 2024'
+Poster already exists for 'WE LIVE IN TIME 2024'
+Poster already exists for 'WHAT IF'
+Press any key to continue . . .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

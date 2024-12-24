@@ -71,6 +71,9 @@ Below is an example of how your organized folders might look:
 
 ![image](https://github.com/user-attachments/assets/e8867d67-4226-494c-8149-c73b3148e765)
 ![image](https://github.com/user-attachments/assets/64910109-fb9e-4452-97dc-8f232978780a)
+![image](https://github.com/user-attachments/assets/cd860dc0-7b3d-4466-8f95-fb0268c1cef7)
+![image](https://github.com/user-attachments/assets/575e1d0e-1419-401e-b98a-ea1a485d789f)
+
 
 
 

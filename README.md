@@ -70,6 +70,8 @@ This Python script streamlines the process of organizing and enriching your medi
 Below is an example of how your organized folders might look:
 
 ![image](https://github.com/user-attachments/assets/e8867d67-4226-494c-8149-c73b3148e765)
+![image](https://github.com/user-attachments/assets/64910109-fb9e-4452-97dc-8f232978780a)
+
 
 
 ## Contribution

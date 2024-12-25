@@ -1,0 +1,3 @@
+@echo off
+python C:\VICTUS\ENTERTANMENT\01_CONTROL\THUMNAIL.PY
+pause

@@ -1,0 +1,10 @@
+hide
+
+attrib +h *.torrent
+
+
+
+
+unhide
+
+attrib -h *.torrent
